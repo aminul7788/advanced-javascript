@@ -1,6 +1,6 @@
 //const name = "0";
-let name = 10;
-if(name || name == 0){
+let name = '';
+if(name){
     console.log("condition is true.");
 }
 else{
